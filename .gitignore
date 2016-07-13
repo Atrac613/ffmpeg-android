@@ -5,6 +5,8 @@ libpng-*
 expat-*
 fribidi-*
 lame-*
+libogg-*
+libvorbis-*
 
 # Created by http://www.gitignore.io
 

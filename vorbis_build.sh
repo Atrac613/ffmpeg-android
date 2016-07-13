@@ -2,7 +2,7 @@
 
 . abi_settings.sh $1 $2 $3
 
-pushd libvorbis
+pushd libvorbis-1.3.5
 
 make clean
 

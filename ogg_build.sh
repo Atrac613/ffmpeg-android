@@ -2,7 +2,7 @@
 
 . abi_settings.sh $1 $2 $3
 
-pushd libpng-1.6.23
+pushd libogg-1.3.2
 
 make clean
 
